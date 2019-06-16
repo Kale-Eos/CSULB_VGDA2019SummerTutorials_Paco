@@ -1,0 +1,9 @@
+Intermediate Gameplay Scripting
+
+public - accessible between child and parent and hierarchy
+
+protected - accessible only between child and parent but not outside of it
+
+private - exist but not accessible between child and parent
+
+Constructor code - called in child, only called from parent through "base class"
