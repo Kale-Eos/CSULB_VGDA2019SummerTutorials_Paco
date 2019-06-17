@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 2048840284}
   - component: {fileID: 2048840283}
   m_Layer: 0
-  m_Name: LookingCube
+  m_Name: SpinCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -459,9 +459,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2048840282}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e494b14944e9b9d429cc245ca3ba992e, type: 3}
+  m_Script: {fileID: 11500000, guid: 9e48a26abd3908740bf81a145f0aaad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Xspeed: 0
+  Yspeed: 0
+  Zspeed: 0
 --- !u!65 &2048840284
 BoxCollider:
   m_ObjectHideFlags: 0
