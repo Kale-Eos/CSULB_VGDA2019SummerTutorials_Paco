@@ -1,0 +1,14 @@
+
+namespace are system directives using the keyword 'using'
+making namespace by using namespace randomNameHere and encase in brackets
+
+can also write in
+
+public class SomeOtherClass : MonoBehavior
+{
+	void Start()
+	{
+		randomNameHere.SomeClass dummyName = new randomNameHere.SomeClass;
+	}
+
+doing this is inefficient, so just write 'using randomNameHere;'
