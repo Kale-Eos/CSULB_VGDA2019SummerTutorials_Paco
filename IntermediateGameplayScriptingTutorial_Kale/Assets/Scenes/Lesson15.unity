@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 1873041195}
   - component: {fileID: 1873041194}
   m_Layer: 0
-  m_Name: MoivngCube
+  m_Name: MovingCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -689,7 +689,7 @@ GameObject:
   - component: {fileID: 2048840283}
   - component: {fileID: 2048840288}
   m_Layer: 0
-  m_Name: LookkingCube
+  m_Name: LookingCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
